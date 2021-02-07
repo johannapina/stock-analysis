@@ -8,7 +8,7 @@ Using the stock data for various ticker symbols for 2017 and 2018, we developed 
 - Based on the analysis, the stocks from 2017 have an overall positive return rate. With the exception of the `RUN` ticker, all other stocks performed higher during 2017.
 - There was a change in the `TERP` stock when comparing the return rate of 2017 and 2018. However, it is not statistically significant and it was negative for both years.
 
-![2017_Stock_Analysis.png](2017_Stock_Analysis.png)![2018_Stock_Analysis.png](2018_Stock_Analysis.png)	
+![2017_Stock_Analysis.png](Resources/2017_Stock_Analysis.png)![2018_Stock_Analysis.png](Resources/2018_Stock_Analysis.png)	
 
 
 
