@@ -16,8 +16,8 @@ Using the stock data for various ticker symbols for 2017 and 2018, we developed 
 
 | | Original | Refactored |
 | :--: | :--: | :--: |
-| 2017 | <img src="Original_2017.png" width="250" height="200"> | <img src="VBA_Challenge_2017.png" width="250" height="200"> |
-| 2018 | <img src="Original_2018.png" width="250" height="200"> | <img src="VBA_Challenge_2018.png" width="250" height="200"> |
+| 2017 | <img src="Resources/Original_2017.png" width="250" height="200"> | <img src="Resources/VBA_Challenge_2017.png" width="250" height="200"> |
+| 2018 | <img src="Resources/Original_2018.png" width="250" height="200"> | <img src="Resources/VBA_Challenge_2018.png" width="250" height="200"> |
 
  
 
